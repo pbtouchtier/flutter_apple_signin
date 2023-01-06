@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>866316857289-3cj3degqeim9qu5hqmd2c7tfjf5pqr5r.apps.googleusercontent.com</string>
+	<string>594098393575-ggpld79regv831dcig8746hiv20c0kjv.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.866316857289-3cj3degqeim9qu5hqmd2c7tfjf5pqr5r</string>
+	<string>com.googleusercontent.apps.594098393575-ggpld79regv831dcig8746hiv20c0kjv</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDkNjpQkSKsqFAQgKINFh5POhhcOmIxQx8</string>
+	<string>AIzaSyAk6AxXpB12Svxg-8epsj80i0H4ntDqSU0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>866316857289</string>
+	<string>594098393575</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>net.redeemx.patron.appleidsign</string>
 	<key>PROJECT_ID</key>
-	<string>rxpatron</string>
+	<string>flutterapplesignin</string>
 	<key>STORAGE_BUCKET</key>
-	<string>rxpatron.appspot.com</string>
+	<string>flutterapplesignin.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:866316857289:ios:65ee969a0beaed73468218</string>
+	<string>1:594098393575:ios:b215ae60311d7f8df8ed42</string>
 </dict>
 </plist>

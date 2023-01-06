@@ -13,7 +13,7 @@ class LogoutPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Center(
-              child: RaisedButton(
+              child: ElevatedButton(
                 onPressed: () {
                   context.read<AuthenticationProvider>().signOut();
                 },
